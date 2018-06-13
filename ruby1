@@ -3,4 +3,4 @@ def hello
 puts 'hello world'
 end
 hello()
-{function body}
+{function bod}
